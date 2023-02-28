@@ -46,5 +46,5 @@ if __name__ == '__main__':
 
 
     checker = FiniteAutomaton(automaton)
-    checker.check_strings(['adba', 'abadba', 'adaba', 'adbbaba', 'aabadab'])
+    checker.check_strings(['adba', 'abadba', 'adaba', 'adbbaba', 'abadaba'])
     
